@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Time
+comment1.params=hours\ minutes\ seconds
+comment1.target=Time(int,\ int,\ int)
+numComments=2
